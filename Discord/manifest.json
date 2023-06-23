@@ -1,0 +1,10 @@
+{
+    "name": "Discord",
+    "version": "1.0.0",
+    "description": "A discord webhook manager for NexusPHP",
+    "author": "Kevin Gorman (NexusPHP Author)",
+    "authorEmail": "kgorman436@gmail.com",
+    "github": "https://github.com/kevingorman1000",
+    "repo": "https://github.com/kevingorman1000/NexusPHP",
+    "dependencies": []
+}
