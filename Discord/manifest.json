@@ -1,5 +1,6 @@
 {
     "name": "Discord",
+    "package": "nexusPHP/Discord",
     "version": "1.0.0",
     "description": "A discord webhook manager for NexusPHP",
     "author": "Kevin Gorman (NexusPHP Author)",
